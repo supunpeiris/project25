@@ -1,0 +1,16 @@
+building_id,hvac_system_type,hvac_efficiency,energy_recovery,maintenance_status,installation_year,system_age_years,compressor_type,refrigerant_type,seasonal_cop_summer,seasonal_cop_winter
+B00001,Split,0.85,Yes,Good,2015,9,Rotary,R410A,4.2,3.8
+B00002,VRF,0.92,Yes,Excellent,2018,6,Scroll,R32,4.8,4.1
+B00003,Chiller,0.88,No,Good,2012,12,Centrifugal,R134a,4.0,3.5
+B00004,Packaged,0.75,No,Fair,2008,16,Scroll,R410A,3.5,3.0
+B00005,Heat Pump,0.80,Yes,Good,2016,8,Rotary,R410A,3.9,2.8
+B00006,Split,0.87,Yes,Excellent,2019,5,Rotary,R32,4.3,3.9
+B00007,VRF,0.90,Yes,Good,2017,7,Scroll,R32,4.6,4.0
+B00008,Chiller,0.85,Yes,Good,2014,10,Centrifugal,R134a,3.8,3.3
+B00009,Packaged,0.78,No,Fair,2010,14,Scroll,R410A,3.6,3.1
+B00010,Heat Pump,0.82,Yes,Good,2017,7,Rotary,R410A,4.0,2.9
+B00011,Split,0.86,Yes,Good,2016,8,Rotary,R410A,4.1,3.7
+B00012,VRF,0.91,Yes,Excellent,2019,5,Scroll,R32,4.7,4.2
+B00013,Chiller,0.89,Yes,Excellent,2015,9,Centrifugal,R134a,4.1,3.6
+B00014,Packaged,0.77,No,Poor,2009,15,Scroll,R410A,3.4,2.9
+B00015,Heat Pump,0.81,Yes,Good,2018,6,Rotary,R410A,4.1,2.8
